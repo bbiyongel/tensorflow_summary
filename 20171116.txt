@@ -1,0 +1,69 @@
+docker ps -a
+docker exec -it 4b954b316425 bash
+# apt-get update
+# apt-get install nano
+# nano mlp_classification.py
+# python mlp_classification.py
+# apt-get install python-tk
+
+콘솔(AWS) <-> 주피터 노트북
+
+
+LED -> RG"B"
+
+RBM based Deep Belief Network -> Deep NN(Network Network)
+
+Convolutional NN 
+  영상처리가 용이하도록 NN 구성
+  Convolution Layer - Pooling Layer
+
+Overfitting -> NN의 특징
+
+Recurrent NN
+  음성처리, 언어처리에 적합
+  기억의 aging(망각), 기억소자(cell)을 모델링 가능
+     LSTM
+  계산량이 아주 많음
+
+sudo apt-get update
+sudo apt-get install nano
+sudo apt-get install wget
+wget http://fit.vutbr.cz/~imikolov/rnnlm/simple-examples.tgz
+tar xvfz simple-examples.tgz
+파이썬 파일 2개 생성(복사)
+실행
+
+비지도학습
+ -> 정답이 없는 상태에서 
+ -> 학습/테스트 데이터 -> 검증
+ -> Aggregations/K means
+ -> 강화학습/Deep Q Network
+
+sjha72@gmail.com
+
+RPC(Remote Procedure Call)/RMI(Remote Method Invocation)
+
+원격시스템에 있는 함수/메소드를 호출해서 결과를 리턴받는 기능
+
+이를 응용한 시스템 CORBA/DCOM/EJB/Spring -> Tensorflow Serving
+
+Sun RPC(Java/Unix)/ DCE RPC(MS)/ Google RPC
+
+Directory Service
+   Active Directory(MS)/JNDI(Java)
+
+docker run -it -p 8888:8888 -p 6006:6006 tensorflow/tensorflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+

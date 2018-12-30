@@ -1,0 +1,71 @@
+Semantic Web
+  단어/문장 매칭
+  눈이 내린다 ->
+
+
+Docker -> VT-X/AMD-V(Celeron X)
+
+docker pull tensorflow/tensorflow
+
+int a = 5; strong-typed language
+a = 6 weak-typed language
+
+list/python -> array/C
+  index 몇 번 째인지
+dictionary/python -> map/java
+                     key/value 
+
+"name":"하석재"
+"age":46
+"address":"seoul"
+
+call(pass) by value/reference
+
+a = 5
+print(a)
+
+Java
+int, float -> call by value
+array, class(String) -> call by reference
+
+pip install numpy
+apt-cache search numpy
+apt-get install python-numpy
+
+cf. 폰 노이만
+
+sjha72@gmail.com
+
+docker ps -a 
+-> tensorflow 컨테이너 이름 확인
+docker cp ./packt.jpeg b83946149185:/notebooks
+
+
+
+
+sujinies2@gmail.com
+jinsoo8o@naver.com
+rapkyo01@naver.com
+poohyeou@gmail.com
+greatcsyq@naver.com
+bbiyongel@hanmail.net
+kkhst@hanmail.net
+doryou1991@naver.com
+lee.janghun@gmail.com
+nexgen12@gmail.com
+cbpark@ssis.or.kr
+rebistence@gmail.com
+rokakjw@gmail.com
+ha.jeongcheol@gmail.com
+jkoh@hist.co.kr
+china640@gmail.com
+dleown2420@naver.com
+
+
+
+
+
+
+
+
+

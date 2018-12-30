@@ -1,0 +1,37 @@
+linear regression = binomial classification
+
+감정분석 8진분류
+10진 분류
+
+from tensorflow.examples.tutorials.mnist import input_data
+mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
+
+docker ps -a
+docker cp Acxxxx.zip 1234567:/notebooks
+docker exec -it 1234567 bash
+# ls
+# unzip Acxxx.zip
+
+1. Sigmoid 
+
+2. 시그모이드 함수에 로그를 취한 후 미분
+
+3. 경사하강법(미분)
+-------------------------> 로지스틱 회귀(Logistic regression)
+4. 편미분(신경망의 전파/역전파) 1/2단만 넘어가도 계산의 어려움
+   Sigmoid -> ReLU
+
+Deep NN(2단부터)
+ -> CNN(Convolutional NN) -> 영상인식/처리
+ -> RNN(Recurrent NN)     -> 음성처리/음성인식/계산량이 많음  
+ -> DQN(Deep Q Network)
+ -> Reinforcement Learning -> 강화학습(알파고)
+
+
+
+
+
+
+
+
+
